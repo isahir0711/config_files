@@ -1,0 +1,21 @@
+{
+  "window.titleBarStyle": "custom",
+  "workbench.activityBar.location": "hidden",
+  "workbench.editor.showTabs": "single",
+  "workbench.statusBar.visible": false,
+  "workbench.tips.enabled": false,
+  "editor.minimap.enabled": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.startupEditor": "none",
+  "git.openRepositoryInParentFolders": "never",
+  "workbench.colorTheme": "One Dark",
+  "workbench.preferredDarkColorTheme": "One Dark Pro",
+  "oneDarkPro.bold": true,
+  "oneDarkPro.vivid": true,
+  "workbench.productIconTheme": "fluent-icons",
+  "window.autoDetectColorScheme": true,
+  "workbench.preferredLightColorTheme": "Atom One Light",
+  "editor.formatOnSave": true,
+  "workbench.sideBar.location": "right",
+  "dart.lineLength": 120
+}
